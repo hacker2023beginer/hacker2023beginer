@@ -1,16 +1,19 @@
-## Hi there 👋
+# Привет, я Влад 👋
 
-<!--
-**hacker2023beginer/hacker2023beginer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Программист, увлечённый C, Java и GUI-фреймворками  
+🔍 Люблю разбираться в низкоуровневой оптимизации и алгоритмах  
+📸 Также практикую цифровую организацию и автоматизацию
 
-Here are some ideas to get you started:
+## 🛠️ Мои навыки
+- C / C++ / Java
+- Qt, SDL, Dear ImGui
+- Оптимизация памяти и производительности
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlad-dev&show_icons=true&theme=radical)
+
+## 🔥 Мои любимые проекты
+- 
+
+## 📫 Связаться со мной
+
