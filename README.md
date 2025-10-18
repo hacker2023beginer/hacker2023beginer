@@ -10,7 +10,7 @@
 - Оптимизация памяти и производительности
 
 ## 📈 GitHub Stats
-![Vlad's GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hacker2023beginer&show_icons=true&theme=radical))
+(![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hacker2023beginer&show_icons=true&theme=radical))
 
 ## 🔥 Мои любимые проекты
 - 
