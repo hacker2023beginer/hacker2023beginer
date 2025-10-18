@@ -10,7 +10,7 @@
 - Оптимизация памяти и производительности
 
 ## 📈 GitHub Stats
-(![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hacker2023beginer&show_icons=true&theme=radical))
+![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hacker2023beginer&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hacker2023beginer&layout=compact&langs_count=9)
 ## 🔥 Мои любимые проекты
 <a href="https://github.com/hacker2023beginer/leetcode">
