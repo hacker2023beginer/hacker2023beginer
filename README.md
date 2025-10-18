@@ -17,7 +17,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker2023beginer&repo=leetcode" />
 </a>
 <a href="https://github.com/hacker2023beginer/Boolean_expression_calculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker2023beginer&Boolean_expression_calculator" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker2023beginer&repo=Boolean_expression_calculator" />
 </a>
 
 ## 📫 Связаться со мной
