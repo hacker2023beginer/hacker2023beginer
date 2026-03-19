@@ -1,20 +1,32 @@
-# Привет, я Влад 👋
+# Hello, my name is Vlad, nice to meet you 👋
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Vlad%2C+a+java+developer+and+friendly+man+%E2%9C%A9" width="100%" />
-💻 Программист, изучаю Java, C, C++, Delphi, CSS, HTML, JavaScript 
+💻 Java backend developer, studying Java, C, C++, Delphi, CSS, HTML, JavaScript, Python 
 
-🔍 Люблю разбираться в сложных задачах и алгоритмах для их решения  
+🔍 I like problem-solving in hard tasks and use algoritms in solutions
 
-📸 Также люблю отслеживать ошибки
+📸 Good at debugging and logging
 
-## 🛠️ Мои навыки
-- Java/ C / Delphi
-- Spring, PostgreSQL, QT
-- ООП, многопоточность, базы данных, оптимизация кода, работа в команде
+## 🛠️ My skills
+- Java / C / C++ / Delphi / CSS / HTML / JavaScript / Python
+- Spring framework
+- PostgreSQL / MongoDB / H2
+- QT
+- Hibernate
+- Liquibase
+- Kafka
+- Docker
+- Maven
+- JUnit
+- Mockito
+- JDBC
+- Postman / Swagger / gRPC
+- Spring Cloud / Security / Web and etc.
+- OOP, multithreading, code optimization, command working
 
 ## 📈 GitHub Stats
 ![Vlad's GitHub stats](https://github-readme-stats-psi-six-69.vercel.app/api?username=hacker2023beginer&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats-psi-six-69.vercel.app/api/top-langs/?username=hacker2023beginer&layout=compact&langs_count=9)
-## 🔥 Мои любимые проекты
+## 🔥 My favorite projects
 <a href="https://github.com/hacker2023beginer/leetcode">
   <img align="center" src="https://github-readme-stats-psi-six-69.vercel.app/api/pin/?username=hacker2023beginer&repo=leetcode" />
 </a>
@@ -22,6 +34,6 @@
   <img align="center" src="https://github-readme-stats-psi-six-69.vercel.app/api/pin/?username=hacker2023beginer&repo=Boolean_expression_calculator" />
 </a>
 
-## 📫 Связаться со мной
+## 📫 Contacts
 - tsurkovlados@gmail.com
 - https://t.me/vladtssss 
