@@ -39,3 +39,6 @@
 - www.linkedin.com/in/vladislav-tsurko-74129134b
 - tsurkovlados@gmail.com
 - https://t.me/vladtssss 
+
+## ✅ Resume
+[Resume.pdf](https://github.com/user-attachments/files/26124479/default.pdf)
