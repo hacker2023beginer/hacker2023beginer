@@ -36,5 +36,6 @@
 </a>
 
 ## 📫 Contacts
+- www.linkedin.com/in/vladislav-tsurko-74129134b
 - tsurkovlados@gmail.com
 - https://t.me/vladtssss 
