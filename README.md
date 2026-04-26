@@ -53,5 +53,5 @@
 - https://t.me/vladtssss 
 
 ## ✅ Resume
-### RU [Resume.pdf](https://github.com/user-attachments/files/26124479/default.pdf)
+### RU [Resume.pdf](https://github.com/user-attachments/files/26124479/Resume.pdf)
 ### EN [Resume.pdf](https://github.com/user-attachments/files/26124519/Resume.pdf)
