@@ -6,7 +6,7 @@
 🔍 I like problem-solving in hard tasks and use algoritms in solutions
 
 📸 Good at debugging and logging
-
+# 1+ Year of experience
 ## 🛠️ My skills
 - Java / C / C++ / Delphi / CSS / HTML / JavaScript / Python
 - Spring framework
